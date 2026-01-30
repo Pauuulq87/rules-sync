@@ -23,7 +23,7 @@
 現代 AI 編輯器各有各的規則文件格式：
 
 - Claude Code → `CLAUDE.md`
-- Antigravity → `GEMINI.md`
+- Gemini CLI/Antigravity → `GEMINI.md`
 - Codex → `AGENTS.md`
 - Cursor → `.cursor/rules`
 

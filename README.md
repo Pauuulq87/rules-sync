@@ -23,7 +23,7 @@
 Modern AI editors each have their own rules file format:
 
 - Claude Code → `CLAUDE.md`
-- Antigravity → `GEMINI.md`
+- Gemini CLI/Antigravity → `GEMINI.md`
 - Codex → `AGENTS.md`
 - Cursor → `.cursor/rules`
 
