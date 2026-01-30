@@ -144,12 +144,6 @@ nohup rules-sync /path/to/project > /tmp/rules-sync.log 2>&1 &
 
 ---
 
-### <img src="https://api.iconify.design/lucide/users.svg?color=%238b5cf6" width="18" height="18" /> 貢獻者
-
-- **Pauuulq87** — 作者
-- **OpenClaw (Claude)** — 開發
-
----
 
 ### <img src="https://api.iconify.design/lucide/heart.svg?color=%23ec4899" width="18" height="18" /> 致謝
 
