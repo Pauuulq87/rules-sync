@@ -160,5 +160,5 @@ nohup rules-sync /path/to/project > /tmp/rules-sync.log 2>&1 &
 ---
 
 <div align="center">
-  <p><strong>MIT License</strong> © 2026 Pauuulq87</p>
+  <p><strong>MIT License</strong></p>
 </div>

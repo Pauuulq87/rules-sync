@@ -160,5 +160,5 @@ Made with care for AI-assisted developers.
 ---
 
 <div align="center">
-  <p><strong>MIT License</strong> © 2026 Pauuulq87</p>
+  <p><strong>MIT License</strong></p>
 </div>
