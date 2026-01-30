@@ -145,14 +145,7 @@ nohup rules-sync /path/to/project > /tmp/rules-sync.log 2>&1 &
 ---
 
 
-### <img src="https://api.iconify.design/lucide/heart.svg?color=%23ec4899" width="18" height="18" /> 致谢
-
-专为 AI 辅助开发者打造。
-
-*谢谢 GitHub 开发者把智慧与经验分享出来，才有今天的我。*
-
----
-
 <div align="center">
-  <p><strong>MIT License</strong></p>
+  <p><strong>MIT License</strong> - 专为 AI 辅助开发者打造。</p>
+  <p><em>谢谢 GitHub 开发者把智慧与经验分享出来，才有今天的我。</em></p>
 </div>
